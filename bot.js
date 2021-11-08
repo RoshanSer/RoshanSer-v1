@@ -114,15 +114,15 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'AFAMK' || config.AFPLK == 'afamk' || config.AFPLK == 'Afamk' || config.AFPLK == 'pinky') {
+        if (config.AFPLK == 'RSConnect') {
         //thanks to afnanplk
         console.log(
-            chalk.green.bold('thanks for watching -key cofirmed-')
+            chalk.green.bold('Thanks -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'AFAMK' || config.AFPLK !== 'afamk' || config.AFPLK !== 'Afamk' || config.AFPLK !== 'pinky') {
+         else if (config.AFPLK !== 'RSConnect' ) {
          console.log(
-            chalk.red.bold('make sure you have typed the correct password'));
+            chalk.red.bold('make sure you have typed the correct password,look bot no for password'));
          throw new Error("Password Error ⚠⚠ ");         
          return; //created by afnanplk
          }
