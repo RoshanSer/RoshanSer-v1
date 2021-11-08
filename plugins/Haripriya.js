@@ -96,10 +96,8 @@ if (regex2.test(message.message)) {
 	reply = await message.client.sendMessage(message.jid,UPLOAD_ING , MessageType.text, { quoted: message.data });
 
         let msg = '```'
-        msg +=  `TITLE :${result.title}\n\n`
-        msg +=  `SIZE :${result.size}\n\n`
-        msg +=  `DOWNLOADING LINK : https://youtu.be/5MKycJxmA4c\n\n`
-        msg += '```' 
+        msg +=  `Bot Name:RoshanSer\n\n`
+
 	 return await message.client.sendMessage(message.jid,Buffer.from(videoBuffer.data), MessageType.video, {mimetype: Mimetype.mp4, ptt: false , caption: msg , thumbnail: White.tm_b}); 
 }
 }));
