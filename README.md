@@ -1,4 +1,4 @@
-### Project is in Development Mode,
+### Version: Beta,
 
 <div align="center">
 
