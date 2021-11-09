@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MOHAMMEDROSHAN/RoshanSer)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser))
   
 ### The Hard Method
 ```js
