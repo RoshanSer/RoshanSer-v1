@@ -4,7 +4,7 @@ use this git under copyright
 dont change credit
 */
 
-const Roshan= require('../events');
+const Roshan = require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
