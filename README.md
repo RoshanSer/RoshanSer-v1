@@ -33,15 +33,15 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser))
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/RoshanSer/RoshanSer-v1
+$ cd Roshan
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -49,8 +49,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/RoshanSer/RoshanSer-v1
+$ cd Roshan
 $ npm i
 $ node julie.js
 ```
