@@ -23,40 +23,22 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
 ## Setup
 <div align="center"> 
 
+• Scan QR, Code will come to bot number(where you scanned) + password
 
+• Deploy to Heroku and fill the credentials
 
+• Got to Heroku => Resources => Turn on Worker, Confirm
 
-  ### Simple Method
+- Thats all! Your bot is Ready👍
+   
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoshanSer/RoshanSer-v1.git)
 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
-  
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/RoshanSer/RoshanSer-v1
-$ cd Roshan
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/RoshanSer/RoshanSer-v1
-$ cd Roshan
-$ npm i
-$ node julie.js
-```
-
-----
-
   <p align="center">
   <a href="https://github.com/RoshanSer/RoshanSer-v1">
     
