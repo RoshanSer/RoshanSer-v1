@@ -23,11 +23,11 @@ asena.addCommand({pattern: 'warn', fromMe: true, deleteCommand: true, desc: GM,}
     }));
 
 
-asena.addCommand({pattern: 'warn', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
+asena.addCommand({pattern: 'warn', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
         var r_text = new Array ();
     
-        r_text[1] = "```No of warnings : 1```";
+        r_text[1] = "*Warning!";
         r_text[2] ="```No of warnings : 2```";
         
       
