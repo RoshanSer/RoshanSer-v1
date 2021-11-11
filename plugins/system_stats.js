@@ -3,7 +3,7 @@ Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
 Developer & Co-Founder - Phaticusthiccy
-re-edited by afnan plk
+re-edited by Roshan
 */
 
 const MyPnky = require('../events');
@@ -87,7 +87,7 @@ var i = Math.floor(31*Math.random())
 		   
 		   var a_plk = new Array ();
 
-        a_plk[0] = "https://i.imgur.com/w89FHm7.jpeg";
+        a_plk[0] = "https://i.postimg.cc/VLM54Jdx/Roshan-Ser.jpg";
         a_plk[1] = "https://mcdn.wallpapersafari.com/medium/20/69/juFNVl.jpg";
         a_plk[2] = "https://cdn.wallpapersafari.com/51/57/WXxpck.jpg";
         a_plk[3] = "https://cdn.wallpapersafari.com/72/42/nAdV2j.jpg";
