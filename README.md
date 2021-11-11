@@ -20,6 +20,12 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
     <br> 
 </p>
 
+### My Official Bot
+ 
+• Dont want to create? Enjoy with my bot or take a demo!
+ 
+ <a href = https://wa.me/+380942519278>Message my Bot(type .alive) </a>
+
 ## Setup
 <div align="center"> 
 
