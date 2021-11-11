@@ -64,8 +64,8 @@
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
-            "AFK_TEXT": "```Bip bop! This is a bot. My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "Bip bop! This is a bot.",
+            "AFK_TEXT": "```Beep boop! This is a bot. My owner is not here at the moment.```",
+            "AFK_TEXT_NOMD": "Beep boop! This is a bot.",
             "HOUR": "hour",
             "MINUTE": "minute",
             "SECOND": "second",
@@ -173,8 +173,8 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
-            "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```Removing background...```"
+            "NO_API_KEY": " *API key Missing!* \n If you are the bot owner,you can get it here: remove.bg.",
+            "RBGING": "```Removing background and Uploading your photo...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -242,7 +242,7 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
+            "UPDATE": "*Bot is completely up-to-date!*",
             "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/KequP491eI1IVVipViyWQP*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Updating..💌",
