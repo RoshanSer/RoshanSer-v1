@@ -21,7 +21,7 @@
             "required": true
         },
         "LANGUAGE": {
-            "description": "Bot language.English => en",
+            "description": "Bot language.English => en.Use en itself",
             "required": true,
             "value": "en"
         },
@@ -31,7 +31,7 @@
             "value": "true"
         },
         "AUTO_STICKER": {
-            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "description": "If you likes sticker you can write 'true'. Otherwise false",
             "required": false,
             "value": "true"
         },
@@ -65,7 +65,7 @@
             "required": false          
         },
         "BGM_DURATION": {
-            "description": "FUNY BGM DURATION  codded by SAIDALI",
+            "description": "FUNY BGM DURATION.",
             "required": false,
             "value": "39999600"
         },
