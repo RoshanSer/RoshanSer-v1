@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2021 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
@@ -154,8 +154,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('RoshanSer Work type:' + config.WORKTYPE + '🍃');
-            chalk.green.bold('Bot is running in our system...'));
+            chalk.green.bold('RoshanSer Bot is running in our system in:' + config.WORKTYPE + 'Mode🍃...'));
+            0
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
