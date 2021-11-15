@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
  
 • Dont want to create? Enjoy with my bot or take a demo!
  
- <a href = https://api.whatsapp.com/send?phone=+380942519278&text=.alive%20 >Message my Bot(with .alive command)</a>
+ <a href = "https://api.whatsapp.com/send?phone=+380942519278&text=.alive%20">Message my Bot(with .alive command)</a>
 
 ## Setup
 <div align="center"> 
