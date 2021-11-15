@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('RoshanSer Work type:' + config.WORKTYPE + '🍃'));
+            chalk.green.bold('RoshanSer Work type:' + config.WORKTYPE + '🍃');
             chalk.green.bold('Bot is running in our system...'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
