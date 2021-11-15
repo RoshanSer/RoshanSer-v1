@@ -117,7 +117,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         if (config.AFPLK == 'AFAMK' || config.AFPLK == 'afamk' || config.AFPLK == 'Afamk' || config.AFPLK == 'pinky') {
         //thanks to afnanplk
         console.log(
-            chalk.green.bold('Tʜᴇ ᴘᴀssᴡᴏʀᴅ ʏᴏᴜ Eɴᴛᴇʀᴇᴅ ɪs ᶜᵒʳʳᵉᶜᵗ 👍')
+            chalk.green.bold('The Password you entered is correct...👍')
         );
          }
          else if (config.AFPLK !== 'AFAMK' || config.AFPLK !== 'afamk' || config.AFPLK !== 'Afamk' || config.AFPLK !== 'pinky') {
@@ -154,7 +154,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('RᴏsʜᴀɴSᴇʀ ᴡᴏʀᴋɪɴɢ ɪɴ ' + config.WORKTYPE + ' Mode 🍃'));
+            chalk.green.bold('RoshanSer Work type:' + config.WORKTYPE + '🍃'));
+            chalk.green.bold('Bot is running in our system...'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
