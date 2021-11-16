@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
 ## Setup
 <div align="center"> 
 
-• Scan QR, Code will come to bot number(where you scanned) + password(yt link{credits to Amal}
+• Scan QR, Code will come to bot number + password(yt link{credits to Amal}
 
 • Deploy to Heroku and fill the credentials
 
