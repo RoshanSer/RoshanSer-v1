@@ -38,6 +38,7 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
 • Got to Heroku => Resources => Turn on Worker, Confirm
 
 - Thats all! Your bot is Ready👍
+- I will update bot randomly,so keep checking the bot has update or note by typing .update in bot number
    
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
