@@ -1,5 +1,8 @@
 ### Version: Beta,
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=1F51FF&lines=Welcome+to+RoshanSer+WA+Bot+repo;Created+by+Roshan;This+is+a+BGM+sticker+bot;With+more+features)](https://git.io/typing-svg)
+
+
 <div align="center">
 
  </a>
