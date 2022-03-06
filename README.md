@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
  
 - Touch the image below to chat with my bot 👇
 
-<a href = "https://api.whatsapp.com/send?phone=+380942519278&text=.alive%20"><img src = "message-bot.png"></a>
+<a href = "https://api.whatsapp.com/send?phone=+15147007027&text=.alive"><img src = "message-bot.png"></a>
 
 ## Setup
 <div align="center"> 
@@ -35,8 +35,6 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
 
 • Deploy to Heroku and fill the credentials
 
-• Password: afamk
-
 • Got to Heroku => Resources => Turn on Worker, Confirm
 
 - Thats all! Your bot is Ready👍
@@ -44,6 +42,7 @@ Project created by <a href="https://github.com/MohammedRoshanT">Roshan</a> to ma
    
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
+• PASSWORD: afamk
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoshanSer/RoshanSer-v1.git)
 
