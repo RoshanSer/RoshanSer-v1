@@ -15,8 +15,8 @@ Roshan.addCommand({pattern: 'git', fromMe: false, desc: 'it send bot menu'}, (as
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.postimg.cc/VLM54Jdx/Roshan-Ser.jpg";
-    r_text[1] = "https://i.postimg.cc/VLM54Jdx/Roshan-Ser.jpg";
+    r_text[0] = "https://camo.githubusercontent.com/b327335f85157cbe32370afde96d75a20cc73637a84bf55e4bbe6e6e423064cb/68747470733a2f2f692e706f7374696d672e63632f564c4d35344a64782f526f7368616e2d5365722e6a7067";
+    r_text[1] = "https://camo.githubusercontent.com/b327335f85157cbe32370afde96d75a20cc73637a84bf55e4bbe6e6e423064cb/68747470733a2f2f692e706f7374696d672e63632f564c4d35344a64782f526f7368616e2d5365722e6a7067";
     
  
 
@@ -47,6 +47,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 
 *Github link* : "https://github.com/RoshanSer/RoshanSer-v1"
+
+*Group link* : "https://chat.whatsapp.com/KequP491eI1IVVipViyWQP"
 
  Removing/Changing Credits is strictly Prohibited!
 `}) 
