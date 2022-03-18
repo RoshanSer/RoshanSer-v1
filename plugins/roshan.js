@@ -22,7 +22,7 @@ Roshan.addCommand({pattern: 'git', fromMe: false, desc: 'it send bot menu'}, (as
     r_text[4] = "https://ibb.co/CKTgCp0";
 
 
-    var i = Math.floor(4*Math.random())
+    var i = Math.floor(5*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
