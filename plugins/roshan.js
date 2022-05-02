@@ -19,7 +19,7 @@ Roshan.addCommand({pattern: 'git', fromMe: false, desc: 'it send bot menu'}, (as
     r_text[1] = "https://ibb.co/CKTgCp0";
     r_text[2] = "https://ibb.co/CKTgCp0";
     r_text[3] = "https://ibb.co/CKTgCp0";
-    r_text[4] = "https://ibb.co/CKTgCp0";
+    
 
 
     var i = Math.floor(5*Math.random())
